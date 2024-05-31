@@ -2,3 +2,7 @@ This is File .
 
 This is main test.
 This is New line added by asad.
+<<<<<<< HEAD
+=======
+This is File .
+>>>>>>> b2311ef (Update file1)
